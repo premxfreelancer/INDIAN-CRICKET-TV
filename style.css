@@ -71,13 +71,13 @@ align-items: center;
 }
 
 .buttons {
-    background-color: blue;
+    /* background-color: blue; */
     width: 20%;
     height: 100%;
 }
 
 .innerbutton {
-    background: rgb(0, 170, 255);
+    /* background: rgb(0, 170, 255); */
     border-radius: 100vw;
     display: flex;
     justify-content: center;
@@ -85,4 +85,8 @@ align-items: center;
 }
 .innerbuttonimg {
 width: 15vw;
+}
+
+.homebutton {
+    background: rgb(0, 170, 255); 
 }
