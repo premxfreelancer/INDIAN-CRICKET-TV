@@ -41,7 +41,7 @@ function change4() {
   
     centers2.style.display = 'flex';
    
-    centers2.innerHTML = "Today: " +"<br/>" + matchs[date];
+    centers2.innerHTML = "Today: "+ "(" + date + ")" +"<br/>" + matchs[date];
     
 
 }
