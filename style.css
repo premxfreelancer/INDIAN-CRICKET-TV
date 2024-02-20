@@ -90,3 +90,13 @@ width: 15vw;
 .homebutton {
     background: rgb(0, 170, 255); 
 }
+#centers2 {
+    width: 100%;
+    background-color:red;
+    height: 80%;
+    display: none;
+    position: absolute;
+}
+.brandings {
+    position: relative;
+}
