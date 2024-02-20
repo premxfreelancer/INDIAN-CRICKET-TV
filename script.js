@@ -39,7 +39,10 @@ function change4() {
     nextbutton.style.background = 'none';
     // centers.style.display = 'none';
   
-    centers2.style.display = 'block';
+    centers2.style.display = 'flex';
+   
+    centers2.innerHTML = "Today: " +"<br/>" + matchs[date];
+    
 
 }
 function change5() {
@@ -51,3 +54,4 @@ function change5() {
 
 
 }
+
