@@ -11,7 +11,19 @@ let date = today.toLocaleDateString('en-GB', {
 let matchs = {
     "20/02/2024": "Ind vs Us",
     "20/02/2024": "Ind vs pak",
-    "23/02/2024": "Ind vs Eng"
+    "23/02/2024": "Ind vs Eng",
+"28/03/2024": "RR vs DC",
+"29/03/2024" : "KKR vs RCB",
+"30/03/2024" : "LSG vs PBKS",
+"31/03/2024" : "GT vs SRH",
+"31/03/2024" : "CSK vs DC",
+"01/04/2024" : "MI vs RR",
+"02/04/2024" : "RCB vs LSG",
+"03/04/2024" : "DC vs KKR",
+
+
+
+
 };
 
 
